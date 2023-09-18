@@ -1,4 +1,4 @@
-# AI_T-shirt
+# AI Custom T-shirt maker
 
 Custom AI T shirt maker web app built using: 
 
