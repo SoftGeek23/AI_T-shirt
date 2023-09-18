@@ -16,3 +16,14 @@ Features :
 -Built using scalable and reusable code using Higher Order Components (HOCs) and other industry-standard best practices.
 -Generates and use images through DALLE AI
 -Responsiveness across all devices
+
+
+To run, make sure your in the root folder for the project and run: 
+npm install
+npm run dev
+
+Then, cd into the server folder and run
+
+npm start
+
+This should run the backend server and frontend 
