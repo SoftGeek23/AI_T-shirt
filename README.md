@@ -1,5 +1,8 @@
 # AI Custom T-shirt maker
 
+<img width="1440" alt="Screenshot 2023-09-17 at 7 21 43 PM" src="https://github.com/SoftGeek23/AI_T-shirt/assets/108381103/16391416-9fac-4cad-bf76-ee4fbb028e4d">
+
+
 Custom AI T shirt maker web app built using: 
 
 ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
